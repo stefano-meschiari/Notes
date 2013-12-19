@@ -1,0 +1,44 @@
+#+STARTUP: latexpreview
+
+* Outline lvl 1
+** Outline lvl 2
+*** Outline lvl 3
+- Unordered list
+- Use M-Return to add more items of the same list
+  - Sublist: TAB on the parent node to hide/show
+* A numbered list
+1. Item 1
+2. Item 2
+3. Item 3
+* A to-do list
+- [ ] Checkbox
+- [ ] Press C-c C-c to check a box
+* A table
+| Column 1  | Column 4 | Column 3  |
+|-----------+----------+-----------|
+| El1       | El3      | El2       |
+| Move with | TAB and  | Shift+TAB |
+|           |          |           |
+
+* Tagged headline					     :RED:GREEN:BLUE:
+* TODO Item
+* TODO Item2 
+  SCHEDULED: <2006-01-16>
+- Use C-c C-t to switch between TODO/DONE
+- Use C-c [ to add to agenda
+- Use C-c a to see agenda
+
+Links: just type 
+file:~/Dropbox/Projects
+
+Formulas: either inline formulas, $x^2+\sqrt{\exp(1-2)}$, or between
+LaTeX environments. Special symbols, sub/superscripts will be
+visualized when toggling with C-c C-x \. Full LaTeX formulas are
+displayed with C-c C-x C-l. 
+
+Export: export with org-export-... 
+
+Markup: *bold*, /italic/, =code=, +strike-through+
+[[~/Pictures/Scan.jpeg]]
+
+\alpha \beta \Sigma_i
