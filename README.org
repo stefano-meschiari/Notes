@@ -1,0 +1,19 @@
+* Notes
+This repository will contain my notes on new workflow tools I am trying to incorporate in my day-to-day work.
+
+** Org-mode
+- Org-mode talks: http://orgmode.org/talks.html
+*** Shortcut cheatsheet
+| C-c a       | Agenda                  |
+| C-c [       | Add document to agenda  |
+| C-u C-c .   | Add date and time       |
+| C-c C-c     | Add tag                 |
+| C-c C-e     | Export                  |
+| C-c C-t     | Cycle through TODO/DONE |
+| C-c C-x \   | Show symbols            |
+| C-c C-x C-l | Show LaTeX formulas     |
+
+** GitHub
+- Git simple guide: http://rogerdudler.github.io/git-guide/
+- Caching username/password with OS X Keychain: https://help.github.com/articles/set-up-git#password-caching
+- Emacs Got Git: http://bogolisk.blogspot.com/2009/01/introduction-to-egg.html

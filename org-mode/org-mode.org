@@ -20,7 +20,7 @@
 | Move with | TAB and  | Shift+TAB |
 |           |          |           |
 
-* Tagged headline					     :RED:GREEN:BLUE:
+* Tagged headline (C-c C-q) 				     :RED:GREEN:BLUE:
 * TODO Item
 * TODO Item2 
   SCHEDULED: <2006-01-16>
