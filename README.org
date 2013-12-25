@@ -17,3 +17,15 @@ This repository will contain my notes on new workflow tools I am trying to incor
 - Git simple guide: http://rogerdudler.github.io/git-guide/
 - Caching username/password with OS X Keychain: https://help.github.com/articles/set-up-git#password-caching
 - Emacs Got Git: http://bogolisk.blogspot.com/2009/01/introduction-to-egg.html
+- Bash-it: https://github.com/revans/bash-it
+- Magit cheatsheet:
+
+| M-x magit-status | Shows status of repository |
+| s                | Stage (add) file           |
+| l                | History                    |
+| c                | Commit                     |
+| C-c C-c          | Save commit message        |
+| P                | Push                       |
+
+
+
