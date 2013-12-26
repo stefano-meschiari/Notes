@@ -16,8 +16,7 @@ This repository will contain my notes on new workflow tools I am trying to incor
 ** GitHub
 - Git simple guide: http://rogerdudler.github.io/git-guide/
 - Caching username/password with OS X Keychain: https://help.github.com/articles/set-up-git#password-caching
-- Emacs Got Git: http://bogolisk.blogspot.com/2009/01/introduction-to-egg.html
-- Bash-it: https://github.com/revans/bash-it
+- Bash-it: https://github.com/revans/bash-it (shows state of repository at prompt)
 - Magit cheatsheet:
 
 | M-x magit-status | Shows status of repository |
@@ -27,5 +26,26 @@ This repository will contain my notes on new workflow tools I am trying to incor
 | C-c C-c          | Save commit message        |
 | P                | Push                       |
 
+** Python
+- EIN cheatsheet, http://tkf.github.io/emacs-ipython-notebook
 
+| M-x ein:notebooklist-open | Open list of notebooks              |
+| M-x ein:junk-new          | Create a new "junk" notebook        |
+| C-c C-c                   | Run code in cell                    |
+| C-c C-k                   | Kill cell                           |
+| C-c C-t                   | Toggle cell type                    |
+| C-c <up>/<down>           | Move cell up/down                   |
+| C-c C-f                   | Show help at point                  |
+| C-c C-i                   | Complete at point                   |
+| M-RET                     | Execute cell at point               |
+| C-x C-w                   | Save notebook with a different name |
+| C-<up>/<down>             | Move to prev/next cell              |
+
+- elpy cheatsheet, https://github.com/jorgenschaefer/elpy/wiki/Keybindings
+
+| C-c < / > | Indent left/right    |
+| C-c C-j   | Symbols              |
+| C-c C-z   | Switch to shell      |
+| C-c C-d   | Documentation        |
+| C-c C-c   | Send buffer to shell |
 
