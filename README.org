@@ -12,8 +12,8 @@ This repository will contain my notes on new workflow tools I am trying to incor
 | C-x u     | Show undo tree (undo+)                   |
 | S-<arrow> | Move between windows                     |
 | Cmd-.     | imenu jump to symbols (idomenu)          |
+| C-c ! n/p | Goto next/prev error (flycheck)          |
 | M-g M-g   | Goto line                                |
-|           |                                          |
 
 ** Org-mode
 - Reproducible research with org-mode, emacs and python: http://www.youtube.com/watch?v=1-dUkyn_fZA
