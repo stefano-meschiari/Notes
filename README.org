@@ -1,9 +1,24 @@
 * Notes
 This repository will contain my notes on new workflow tools I am trying to incorporate in my day-to-day work.
 
+** My custom Emacs commands
+
+| C-x f     | Show recentf list (recentf)              |
+| C-c P f   | Find project (project-persist)           |
+| C-c p f   | Open file in project (projectile)        |
+| M-tab     | Show autocompletion menu (auto-complete) |
+| M-n, M-p  | Jump (smart-scan)                        |
+| C-/, M-/  | Undo/redo (undo+)                        |
+| C-x u     | Show undo tree (undo+)                   |
+| S-<arrow> | Move between windows                     |
+| Cmd-.     | imenu jump to symbols (idomenu)          |
+| M-g M-g   | Goto line                                |
+|           |                                          |
+
 ** Org-mode
-- Org-mode talks: http://orgmode.org/talks.html
-*** Shortcut cheatsheet
+- Reproducible research with org-mode, emacs and python: http://www.youtube.com/watch?v=1-dUkyn_fZA
+
+
 | C-c a       | Agenda                  |
 | C-c [       | Add document to agenda  |
 | C-u C-c .   | Add date and time       |
@@ -49,3 +64,4 @@ This repository will contain my notes on new workflow tools I am trying to incor
 | C-c C-d   | Documentation        |
 | C-c C-c   | Send buffer to shell |
 
+** ESS (for R)
