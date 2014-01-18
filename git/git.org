@@ -1,3 +1,4 @@
 * Github tutorial links
 - http://rogerdudler.github.io/git-guide/
 - http://try.github.io/
+- http://sethrobertson.github.io/GitFixUm/fixup.html
