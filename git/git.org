@@ -1,3 +1,12 @@
+* Git-flow
+Git-flow provides high-level branching for feature development.
+
+http://www.alexefish.com/post/52e5652520a0460016000002
+
+Download link: https://github.com/nvie/gitflow
+Quickstart: http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
+Git-flow completion: https://github.com/bobthecow/git-flow-completion
+
 * Github tutorial links
 - http://rogerdudler.github.io/git-guide/
 - http://try.github.io/
