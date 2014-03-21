@@ -36,3 +36,7 @@ A list of recommended starting points for developing a web app. It's written by 
 - Writing code in a good editor makes all the difference: I can recommend Emacs (for a lightweight editor with a lot of shortcuts) or NetBeans (a full-featured IDE). Lots of other tools floating around the web.
 
 - If you get into a "I don't know what the heck is going on" situation, Stack Overflow (http://stackoverflow.com) probably has the answer.
+
+- Node.js is a web server that runs JavaScript. It can also be used to run JavaScript from the command line (just like a Python interpreter), so that you can test your scripts /outside/ the browser.
+
+- Chrome and Firefox both have excellent tools for debugging both your HTML/CSS and your scripts.
